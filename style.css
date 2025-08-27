@@ -413,7 +413,7 @@ footer .credit a {
     position: relative;
 }
 .text-animation span::before{
-    content: "IT Students";
+    content: "Informatics Engineering undergraduate student";
     color: var(--main-color);
     animation: 20s infinite;
 }
